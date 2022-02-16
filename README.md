@@ -1,10 +1,8 @@
 # JavaPoised
 
-A work in-progress project management system for the commandline.
+A project management system to juggle information pertaining to building construction projects.
 
 ## Context
-
-A project management system to juggle information pertaining to building construction projects.
 
 Project attributes tracked in this program include:
 
