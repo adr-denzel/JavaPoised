@@ -1,4 +1,4 @@
-# JavaPoised
+# java-poised
 
 A project management system to juggle information pertaining to building construction projects.
 
